@@ -5,10 +5,10 @@ public class sum{
         for(int i=0; i<a.length-1;i++){
             int sum=a[i]+a[i+1];
             if(sum==x){
-                System.err.println("true");
+                System.out.println("true");
             }
             else{
-                System.err.println("fasle");
+                System.out.println("fasle");
             }
 
         }
